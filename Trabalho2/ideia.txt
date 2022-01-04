@@ -1,0 +1,7 @@
+SHAP
+
+Apresentar as imagens em scatter plot = forma vetorial
+apresentação multidimensional 
+
+DEPOIS IR ATRAVES DE UM PONTO  do scatter, ir para o SHAP 
+imagem
